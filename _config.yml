@@ -20,11 +20,11 @@ author: DiabloNova
 ###############################################
 
 navbar-links:
-  About Me: "درباره پروژه"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://t.me/irialorg"
+ درباره پروژه: "درباره پروژه"
+  منابع:
+    - نصب هسته: "https://beautifuljekyll.com"
+    - منابع سمت کاربر: "https://www.markdowntutorial.com/"
+  خانه نویسنده: "https://t.me/irialorg"
 
 ################
 # --- Logo --- #
